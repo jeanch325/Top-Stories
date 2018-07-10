@@ -13,6 +13,7 @@
 		A28B82E020F502E200238F37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A28B82DF20F502E200238F37 /* Assets.xcassets */; };
 		A28B82E320F502E200238F37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A28B82E120F502E200238F37 /* LaunchScreen.storyboard */; };
 		A28B82EB20F5054E00238F37 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28B82EA20F5054E00238F37 /* SwiftyJSON.swift */; };
+		A28B82ED20F510BA00238F37 /* ArticlesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28B82EC20F510BA00238F37 /* ArticlesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A28B82E220F502E200238F37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A28B82E420F502E200238F37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A28B82EA20F5054E00238F37 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		A28B82EC20F510BA00238F37 /* ArticlesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				A28B82D820F502DF00238F37 /* AppDelegate.swift */,
 				A28B82DA20F502E000238F37 /* SourcesViewController.swift */,
+				A28B82EC20F510BA00238F37 /* ArticlesViewController.swift */,
 				A28B82DC20F502E000238F37 /* Main.storyboard */,
 				A28B82DF20F502E200238F37 /* Assets.xcassets */,
 				A28B82E120F502E200238F37 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A28B82EB20F5054E00238F37 /* SwiftyJSON.swift in Sources */,
+				A28B82ED20F510BA00238F37 /* ArticlesViewController.swift in Sources */,
 				A28B82DB20F502E000238F37 /* SourcesViewController.swift in Sources */,
 				A28B82D920F502DF00238F37 /* AppDelegate.swift in Sources */,
 			);
